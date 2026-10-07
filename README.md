@@ -9,7 +9,7 @@ This repository contains my engineering portfolio website and two tailored resum
 
 Each resume also has editable Word and plain-text versions in [`dist/downloads/`](dist/downloads/).
 
-The [hosted portfolio](https://vincent-cook-engineering.san-jose-sta-2217.chatgpt.site/) is currently private for review.
+The [GitHub Pages portfolio address](https://vincook-code.github.io/Engineering-Work/) is published by the repository's deployment workflow. The [original review portfolio](https://vincent-cook-engineering.san-jose-sta-2217.chatgpt.site/) is hosted separately.
 
 ## Portfolio contents
 
@@ -42,4 +42,10 @@ Open `http://localhost:8000` in a browser. Google Fonts loads online; system fon
 | [`dist/app.js`](dist/app.js) | Course search and roadmap-year filtering |
 | [`dist/downloads/`](dist/downloads/) | PDF, Word, and plain-text resumes |
 
-The course references remain readable without JavaScript. Replace resume files under the same names when updating them. Editing this repository does not automatically update the hosted portfolio.
+The course references remain readable without JavaScript. Replace resume files under the same names when updating them.
+
+## Publish updates
+
+Push changes to `main`. The [Pages deployment workflow](.github/workflows/pages.yml) uploads `dist/` and publishes it automatically after a successful run. Deployment progress is available under the repository's **Actions** tab. The workflow can also be run manually from that tab.
+
+GitHub Pages is configured with **Settings → Pages → Source: GitHub Actions**. The original review portfolio is hosted separately and does not update from this workflow.
