@@ -1,0 +1,53 @@
+Vincent T. Cook
+MANUFACTURING & PRODUCTION
+San Jose, CA | (805) 397-9594 | Vincent.Tait.Cook@gmail.com
+linkedin.com/in/vincent-cook-080790227
+
+Aerospace engineering senior with CAD assembly design and electric motor test-bench documentation experience. Apply structural and materials coursework, wind-tunnel testing, wing-model design, and project planning to manufacturing and production engineering.
+
+EDUCATION
+San Jose State University | San Jose, CA
+B.S. Aerospace Engineering | Expected May 2027 | Enrolled Sep 2022
+
+TECHNICAL SKILLS
+Design & documentation: SolidWorks, Autodesk Inventor, 3D CAD, assembly instructions, stress analysis
+Analysis & tools: simulation and modeling, CFD, thermal testing, MATLAB, Python, C++, Java
+
+ENGINEERING EXPERIENCE & PROJECTS
+SAE Spartan Racing
+EV Powertrain Intern | Aug 2023–May 2025
+• Developed 3D CAD models and assembly instructions for an electric motor performance test bench, defining how mechanical and electrical components fit together.
+• Collaborated with teammates to align engineering and manufacturing practices and troubleshoot technical challenges.
+
+Hybrid Electric / Hydrogen Fuel-Cell Aircraft | SJSU Senior Project
+Aerospace Engineering Team Member — In Progress | 2026–Present
+• Contribute to wing-model design and project planning for a hybrid battery-electric and hydrogen fuel-cell model aircraft.
+• Planned work includes CAD, CFD and thermodynamic analysis, aircraft construction/testing, and battery/fuel-system electronics integration.
+• Planned scope also includes commercial-scale modeling; the team targets first flight in spring 2027.
+
+SJSU Robotics
+Mechanical Designer | Aug 2024–Present
+• Designed a transmitter mast integrating camera and sensor mounting features for a student robot.
+• Used stress analysis to refine robot structure, reinforce high-stress regions, and select lighter materials for lower-load sections.
+
+BROADSWORD | Reusable Rocket Concept
+CAD & Programming Subteam Lead | Sep–Dec 2023
+• Created landing-leg CAD models for a reusable rocket concept and developed code producing trajectory-angle-versus-time plots.
+• Delegated design and programming tasks, coordinated subteam work, and provided constructive technical feedback.
+
+NASA L’SPACE Mission Concept Academy
+Mechanical Engineering Team Member — Educational Program | Fall 2026–Present
+• Help plan scientific approaches and evaluate mechanical-component options for a robotic lunar surface payload mission concept.
+
+SELECTED COURSEWORK
+• AE 20 | Motor CAD: Created high-level motor designs in introductory CAD coursework.
+• AE 112 / AE 114 | Structures & materials: Studied structural dynamics and physical/material properties.
+• AE 160 / AE 162 | Wind-tunnel labs: Used open wind-tunnel lab simulations to test wing airfoils and other objects.
+
+WORK EXPERIENCE
+The Tech Interactive | Educator I | 2024–2025
+• Led hands-on STEM labs and design challenges, communicating procedures and technical concepts clearly.
+Self-Employed | Private Swim Instructor | 2023
+• Coordinated multiple clients, scheduled lessons, and tailored instruction to individual needs.
+YMCA & Ventura Aquatics Center | Swim Instructor / Coach / Lifeguard | 2021–2024
+• Balanced coaching and lifeguard responsibilities while adapting lessons for swimmers with varied abilities.
