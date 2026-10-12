@@ -1,55 +1,57 @@
 Vincent T. Cook
 ROBOTICS & MECHATRONICS
 San Jose, CA | (805) 397-9594 | Vincent.Tait.Cook@gmail.com
-linkedin.com/in/vincent-cook-080790227
+linkedin.com/in/vincent-cook-080790227 | vincook-code.github.io/Engineering-Work/
 
-Aerospace engineering senior with robotics, circuitry design, battery testing, and EV powertrain experience. Apply CAD, structural analysis, MATLAB/Simulink, and dynamics modeling to electromechanical design.
+Aerospace engineering senior with robot circuitry design and repair, battery testing, CAD assemblies, and EV powertrain experience. Project work spans robot programming, 3D dynamics, and MATLAB/Simulink controls.
 
 EDUCATION
 San Jose State University | San Jose, CA
 B.S. Aerospace Engineering | Expected May 2027 | Enrolled Sep 2022
 
 TECHNICAL SKILLS
-Design & analysis: SolidWorks, Autodesk Inventor, CAD, stress analysis, simulation and modeling, CFD, thermal testing
-Programming & dynamics: MATLAB/Simulink, MotionGenesis, Python, C++, Java | Electromechanical integration
+Design: SolidWorks, Autodesk Inventor, CAD, circuit troubleshooting, battery testing, stress analysis
+Analysis: MATLAB/Simulink, MotionGenesis, Python, C++, Java, simulation, CFD, thermal testing
 
 ENGINEERING EXPERIENCE & PROJECTS
 SJSU Robotics
-Mechanical Designer | Aug 2024–Present
-• Designed a transmitter mast with camera and sensor mounts; used stress analysis to reinforce high-load regions and select lightweight materials for lower-load sections.
+Mechanical Designer | Aug 2024-Present
+- Designed a transmitter mast with camera/sensor mounts; used stress analysis to reinforce high-load regions and select lighter materials elsewhere.
 
 FIRST Robotics Team 3925
-Electrical Lead — High School Robotics | 2020–2022
-• Designed circuitry and tested batteries for the team's robot.
+Electrical Lead - High School Robotics | 2020-2022
+- Led robot circuitry design, battery testing, and circuit repairs; developed programming knowledge alongside electrical work.
 
 SAE Spartan Racing
-EV Powertrain Intern | Aug 2023–May 2025
-• Created 3D CAD and assembly instructions for an electric motor test bench; integrated mechanical/electrical components and coordinated engineering/manufacturing requirements with teammates.
+EV Powertrain Intern | Aug 2023-May 2025
+- Created CAD and assembly instructions for an electric motor test bench; integrated mechanical/electrical components and coordinated engineering/manufacturing requirements.
 
-Hybrid Electric / Hydrogen Fuel-Cell Aircraft | SJSU Senior Project
-Aerospace Engineering Team Member — In Progress | 2026–Present
-• Contribute wing-model designs and yearlong planning for a hybrid battery-electric/hydrogen fuel-cell model aircraft.
-• Planned: CAD, CFD/thermodynamics, construction/testing, battery/fuel-system electronics, and commercial-scale modeling; team flight target spring 2027.
+Hybrid Electric / Hydrogen Fuel-Cell Aircraft | SJSU Capstone
+Aerospace Engineering Team Member - In Progress | 2026-Present
+- Contribute wing-model designs and project planning. Planned work includes CFD/thermal analysis, fabrication, and battery/fuel-system electronics; team flight target spring 2027.
 
-BROADSWORD | Reusable Rocket Concept
-CAD & Programming Subteam Lead | Sep–Dec 2023
-• Developed landing-leg CAD and trajectory-angle-versus-time simulation plots for a reusable rocket concept; coordinated CAD/programming subteams, delegated tasks, and provided design feedback.
+BROADSWORD | Senior Design Rocket Concept
+Mechanical & Programming Subgroup Lead | Aug-Dec 2023
+- Designed landing legs in Inventor and coded stage liftoff/landing trajectories for a student rocket reusability concept; coordinated mechanical/programming tasks.
 
-NASA L’SPACE Mission Concept Academy
-Mechanical Engineering Team Member — Educational Program | Fall 2026–Present
-• Help plan science approaches and evaluate mechanical components for a robotic lunar surface payload mission concept.
+NASA L'SPACE Mission Concept Academy
+Mechanical Engineering Team Member - Educational Program | Fall 2026-Present
+- Help plan science approaches and evaluate mechanical components for a robotic lunar payload mission concept.
 
 SELECTED COURSEWORK
-• AE 138 / AE 30 | Modeled 3D rigid-body Frisbee flight in MATLAB/MotionGenesis; coded missile launch trajectories.
-• AE 157 | Applied MATLAB and Simulink to control-system coursework.
-• AE 20 | Created high-level motor designs in introductory CAD coursework.
+- ENGR 10 / AE 20 | Designed, built, and programmed a task robot; modeled a V6 piston engine in Inventor and produced paper schematics.
+- AE 138 / AE 140 / AE 30 | Used MotionGenesis for multibody orbital/Frisbee trajectories and MATLAB for Frisbee dynamics with external variables and moments of inertia; coded missile trajectories.
+- AE 157 | Used MATLAB/Simulink for control-system projects.
 
 WORK EXPERIENCE
 PayPal Stadium | Guest Representative | 2026 Soccer Season
-• Worked San Jose Earthquakes and Bay FC women's team matches.
-The Tech Interactive | Educator I | 2024–2025
-• Taught STEM labs/design challenges and explained technical concepts to diverse learners.
+- Worked San Jose Earthquakes and Bay FC women's team matches.
+The Tech Interactive | Educator I | 2024-2025
+- Taught STEM labs/design challenges and explained technical concepts to diverse learners.
 Self-Employed | Private Swim Instructor | 2023
-• Scheduled clients and tailored swim lessons to individual skills and goals.
-YMCA & Ventura Aquatics Center | Swim Instructor / Coach / Lifeguard | 2021–2024
-• Coached swimmers, led practices, and adapted instruction for children with disabilities.
+- Scheduled clients and tailored swim lessons to individual skills and goals.
+YMCA & Ventura Aquatics Center | Swim Instructor / Coach / Lifeguard | 2021-2024
+- Coached swimmers, led practices, and adapted instruction for children with disabilities.
+
+LEADERSHIP & ATHLETICS
+SJSU Division I Club Ultimate | 2022-Present: coordinate gym training and conditioning. SJSU Club Swimming | Spring 2026: competed at a Cal-hosted meet.

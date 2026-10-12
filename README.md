@@ -2,10 +2,11 @@
 
 Aerospace Engineering senior at San José State University, with an expected graduation date of May 2027.
 
-This repository contains my engineering portfolio website and two tailored resumes:
+This repository contains my engineering portfolio website and three tailored resumes:
 
 - [Robotics & Mechatronics resume](dist/downloads/Vincent-Cook-Robotics-Mechatronics.pdf)
 - [Manufacturing & Production resume](dist/downloads/Vincent-Cook-Manufacturing-Production.pdf)
+- [HVAC Engineering Internship resume](dist/downloads/Vincent-Cook-HVAC-Internship.pdf)
 
 Each resume also has editable Word and plain-text versions in [`dist/downloads/`](dist/downloads/).
 
@@ -13,13 +14,17 @@ The [GitHub Pages portfolio address](https://vincook-code.github.io/Engineering-
 
 ## Portfolio contents
 
-The website features twelve project entries, work experience, and a searchable library of 41 SJSU course and requirement references.
+The website features seventeen project and coursework entries, work experience, and a searchable library of 41 SJSU course and requirement references.
 
-Engineering projects include FIRST Robotics Team 3925 circuitry design and battery testing, SJSU Robotics, an SAE Spartan Racing electric motor test bench, BROADSWORD rocket landing-leg CAD and trajectory simulation, an ongoing hybrid electric/hydrogen aircraft senior project, and the NASA L’SPACE Mission Concept Academy.
+Engineering projects include FIRST Robotics Team 3925 circuitry design, battery testing, and circuit repairs, SJSU Robotics, an SAE Spartan Racing electric motor test bench, BROADSWORD Inventor landing-leg CAD and rocket-stage liftoff/landing trajectory programming (August-December 2023), an ongoing hybrid electric/hydrogen aircraft senior project, and the NASA L’SPACE Mission Concept Academy.
 
 Work experience includes a guest representative role at PayPal Stadium during the 2026 soccer season, working San José Earthquakes and Bay FC women’s matches.
 
-Confirmed class projects include motor CAD, missile launch trajectory code, Frisbee rigid-body flight modeling in MATLAB and MotionGenesis, MATLAB/Simulink controls, open wind-tunnel airfoil studies, and structural/material behavior.
+Confirmed coursework includes ENGR 10 wind-tunnel design and a programmed class robot; AE 20 V6 piston-engine CAD and paper schematics in Inventor; AE 30 missile trajectory coding; AE 112 structural laboratory calculations; AE 114 structural and material behavior; AE 138 MotionGenesis multibody orbital mechanics and disc trajectories; AE 140 MATLAB Frisbee dynamics with external variables and moments of inertia; AE 157 Simulink controls; and AE 160/162 open wind-tunnel aerodynamic data and Navier-Stokes coursework.
+
+Athletics include SJSU Division I club Ultimate Frisbee since 2022, team gym and conditioning coordination, and SJSU club swimming with a Cal-hosted meet in spring 2026. Swimming is listed as club participation.
+
+The HVAC resume targets engineering internships through transferable airflow analysis, CAD documentation, power-efficiency coursework, controls, and circuit troubleshooting.
 
 Current aircraft work is wing-model design and project planning. Further analysis, construction, electronics integration, testing, and commercial-scale modeling are planned work; spring 2027 is the first-flight target. L’SPACE is an educational project, with current contributions to scientific planning and mechanical component choices.
 
