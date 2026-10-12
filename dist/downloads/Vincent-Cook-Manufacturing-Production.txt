@@ -3,7 +3,7 @@ MANUFACTURING & PRODUCTION
 San Jose, CA | (805) 397-9594 | Vincent.Tait.Cook@gmail.com
 linkedin.com/in/vincent-cook-080790227
 
-Aerospace engineering senior with CAD assembly design and electric motor test-bench documentation experience. Apply structural and materials coursework, wind-tunnel testing, wing-model design, and project planning to manufacturing and production engineering.
+Aerospace engineering senior with CAD assembly design, motor test-bench documentation, circuitry design, and battery testing experience. Apply structures, materials, wind-tunnel testing, and project planning to production engineering.
 
 EDUCATION
 San Jose State University | San Jose, CA
@@ -16,38 +16,40 @@ Analysis & tools: simulation and modeling, CFD, thermal testing, MATLAB, Python,
 ENGINEERING EXPERIENCE & PROJECTS
 SAE Spartan Racing
 EV Powertrain Intern | Aug 2023–May 2025
-• Developed 3D CAD models and assembly instructions for an electric motor performance test bench, defining how mechanical and electrical components fit together.
-• Collaborated with teammates to align engineering and manufacturing practices and troubleshoot technical challenges.
+• Developed 3D CAD and assembly instructions for an electric motor test bench; integrated mechanical/electrical components and aligned engineering/manufacturing practices with teammates.
 
 Hybrid Electric / Hydrogen Fuel-Cell Aircraft | SJSU Senior Project
 Aerospace Engineering Team Member — In Progress | 2026–Present
-• Contribute to wing-model design and project planning for a hybrid battery-electric and hydrogen fuel-cell model aircraft.
-• Planned work includes CAD, CFD and thermodynamic analysis, aircraft construction/testing, and battery/fuel-system electronics integration.
-• Planned scope also includes commercial-scale modeling; the team targets first flight in spring 2027.
+• Contribute wing-model designs and planning for a hybrid battery-electric/hydrogen fuel-cell model aircraft.
+• Planned: CAD, CFD/thermodynamics, construction/testing, battery/fuel-system electronics, and commercial-scale modeling; team flight target spring 2027.
 
 SJSU Robotics
 Mechanical Designer | Aug 2024–Present
-• Designed a transmitter mast integrating camera and sensor mounting features for a student robot.
-• Used stress analysis to refine robot structure, reinforce high-stress regions, and select lighter materials for lower-load sections.
+• Designed a transmitter mast with camera and sensor mounts; used stress analysis to reinforce high-load regions and select lighter materials for lower-load sections.
 
 BROADSWORD | Reusable Rocket Concept
 CAD & Programming Subteam Lead | Sep–Dec 2023
-• Created landing-leg CAD models for a reusable rocket concept and developed code producing trajectory-angle-versus-time plots.
-• Delegated design and programming tasks, coordinated subteam work, and provided constructive technical feedback.
+• Created landing-leg CAD and code producing trajectory-angle-versus-time plots for a reusable rocket concept; delegated CAD/programming tasks, coordinated subteam work, and provided technical feedback.
 
 NASA L’SPACE Mission Concept Academy
 Mechanical Engineering Team Member — Educational Program | Fall 2026–Present
-• Help plan scientific approaches and evaluate mechanical-component options for a robotic lunar surface payload mission concept.
+• Help plan science approaches and evaluate mechanical components for a robotic lunar surface payload mission concept.
+
+FIRST Robotics Team 3925
+Electrical Lead — High School Robotics | 2020–2022
+• Designed circuitry and tested batteries for the team's robot.
 
 SELECTED COURSEWORK
-• AE 20 | Motor CAD: Created high-level motor designs in introductory CAD coursework.
-• AE 112 / AE 114 | Structures & materials: Studied structural dynamics and physical/material properties.
-• AE 160 / AE 162 | Wind-tunnel labs: Used open wind-tunnel lab simulations to test wing airfoils and other objects.
+• AE 20 | Created high-level motor designs in introductory CAD coursework.
+• AE 112 / AE 114 | Studied structural dynamics and physical/material properties.
+• AE 160 / AE 162 | Used open wind-tunnel lab simulations to test wing airfoils and other objects.
 
 WORK EXPERIENCE
+PayPal Stadium | Guest Representative | 2026 Soccer Season
+• Worked San Jose Earthquakes and Bay FC women's team matches.
 The Tech Interactive | Educator I | 2024–2025
-• Led hands-on STEM labs and design challenges, communicating procedures and technical concepts clearly.
+• Led STEM labs/design challenges and explained procedures and technical concepts.
 Self-Employed | Private Swim Instructor | 2023
-• Coordinated multiple clients, scheduled lessons, and tailored instruction to individual needs.
+• Scheduled clients and tailored swim lessons to individual needs.
 YMCA & Ventura Aquatics Center | Swim Instructor / Coach / Lifeguard | 2021–2024
-• Balanced coaching and lifeguard responsibilities while adapting lessons for swimmers with varied abilities.
+• Balanced coaching/lifeguard work and adapted swim lessons to varied abilities.

@@ -13,9 +13,11 @@ The [GitHub Pages portfolio address](https://vincook-code.github.io/Engineering-
 
 ## Portfolio contents
 
-The website features eleven project entries, work experience, and a searchable library of 41 SJSU course and requirement references.
+The website features twelve project entries, work experience, and a searchable library of 41 SJSU course and requirement references.
 
-Engineering projects include SJSU Robotics, an SAE Spartan Racing electric motor test bench, BROADSWORD rocket landing-leg CAD and trajectory simulation, an ongoing hybrid electric/hydrogen aircraft senior project, and the NASA L’SPACE Mission Concept Academy.
+Engineering projects include FIRST Robotics Team 3925 circuitry design and battery testing, SJSU Robotics, an SAE Spartan Racing electric motor test bench, BROADSWORD rocket landing-leg CAD and trajectory simulation, an ongoing hybrid electric/hydrogen aircraft senior project, and the NASA L’SPACE Mission Concept Academy.
+
+Work experience includes a guest representative role at PayPal Stadium during the 2026 soccer season, working San José Earthquakes and Bay FC women’s matches.
 
 Confirmed class projects include motor CAD, missile launch trajectory code, Frisbee rigid-body flight modeling in MATLAB and MotionGenesis, MATLAB/Simulink controls, open wind-tunnel airfoil studies, and structural/material behavior.
 
