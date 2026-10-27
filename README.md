@@ -2,11 +2,10 @@
 
 Aerospace Engineering senior at San José State University, with an expected graduation date of May 2027.
 
-This repository contains my engineering portfolio website and three tailored resumes:
+This repository contains my engineering portfolio website and two tailored resumes:
 
 - [Robotics & Mechatronics resume](dist/downloads/Vincent-Cook-Robotics-Mechatronics.pdf)
 - [Manufacturing & Production resume](dist/downloads/Vincent-Cook-Manufacturing-Production.pdf)
-- [HVAC Engineering Internship resume](dist/downloads/Vincent-Cook-HVAC-Internship.pdf)
 
 Each resume also has editable Word and plain-text versions in [`dist/downloads/`](dist/downloads/).
 
@@ -23,8 +22,6 @@ Work experience includes a guest representative role at PayPal Stadium during th
 Confirmed coursework includes ENGR 10 wind-tunnel design and a programmed class robot; AE 20 V6 piston-engine CAD and paper schematics in Inventor; AE 30 missile trajectory coding; AE 112 structural laboratory calculations; AE 114 structural and material behavior; AE 138 MotionGenesis multibody orbital mechanics and disc trajectories; AE 140 MATLAB Frisbee dynamics with external variables and moments of inertia; AE 157 Simulink controls; and AE 160/162 open wind-tunnel aerodynamic data and Navier-Stokes coursework.
 
 Athletics include SJSU Division I club Ultimate Frisbee since 2022, team gym and conditioning coordination, and SJSU club swimming with a Cal-hosted meet in spring 2026. Swimming is listed as club participation.
-
-The HVAC resume targets engineering internships through transferable airflow analysis, CAD documentation, power-efficiency coursework, controls, and circuit troubleshooting.
 
 Current aircraft work is wing-model design and project planning. Further analysis, construction, electronics integration, testing, and commercial-scale modeling are planned work; spring 2027 is the first-flight target. L’SPACE is an educational project, with current contributions to scientific planning and mechanical component choices.
 
