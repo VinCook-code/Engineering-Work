@@ -1,0 +1,331 @@
+{
+  "projects": [
+    {
+      "name": "Senior Project",
+      "role": "Mechanical/Controls Designer",
+      "dates": "Fall 2026-Present",
+      "location": "San Jose, CA",
+      "bullets": [
+        "Working on a comprehensive capstone project, building a RC aircraft from scratch working to balance the mechanical, electrical and aerodynamic systems utilizing manufacturing practices and optimized assembly.",
+        "Designed and integrated electrical architectures for flight control systems ensuring optimized flight dynamics.",
+        "Collaborating on mechanical designs and completing comprehensive landing gear systems, while integrating aerodynamic wing structures for the most optimized aircraft efficiency and structural flight dynamic integrity.",
+        "Utilized manufacturing and design practices to build the structural body and aerodynamic wings of the plane with iterations of prototyping to the final iteration in a step by step assembly and build completion of the aircraft."
+      ],
+      "category": "aerospace manufacturing",
+      "tags": [
+        "Aircraft design",
+        "Controls",
+        "Assembly"
+      ]
+    },
+    {
+      "name": "SJSU Robotics",
+      "role": "Mechanical Designer",
+      "dates": "August 2024-May 2026",
+      "location": "San Jose, CA",
+      "bullets": [
+        "Worked on a radio transmitter mast allowing for free flowing radio transmissions with camera mount and sensors.",
+        "Adjusted robot build designs based on stress analysis to minimize weight while maintaining structural integrity, reinforcing high stress regions and utilizing lightweight materials for low load sections."
+      ],
+      "category": "robotics",
+      "tags": [
+        "Mechanical design",
+        "Stress analysis"
+      ]
+    },
+    {
+      "name": "SAE Spartan Racing",
+      "role": "EV-Powertrain Intern",
+      "dates": "August 2023-May 2025",
+      "location": "San Jose, CA",
+      "bullets": [
+        "Utilized CAD software to create detailed 3D models and assembly instructions to construct a comprehensive test bench for electric motor performance evaluations while integrating electrical and mechanical components.",
+        "Collaborated effectively with team members to integrate engineering and manufacturing practices in the system.",
+        "Communicated with team members while utilizing problem-solving practices to resolve technical challenges."
+      ],
+      "category": "manufacturing robotics",
+      "tags": [
+        "CAD",
+        "Test bench",
+        "Powertrain"
+      ]
+    },
+    {
+      "name": "BROADSWORD",
+      "role": "CAD and Programming subteam lead",
+      "dates": "September 2023-December 2023",
+      "location": "San Jose, CA",
+      "bullets": [
+        "Conceptualized and developed CAD models of Rocket landing legs to support the reusable rocket landing.",
+        "Developed a program executing simulations on data points, generating angle trajectory to time graphs.",
+        "Directed both programming and CAD subteams, coordinating projects and delegating tasks to team members while also giving constructive feedback while in communication with Senior lead oversight on the main project."
+      ],
+      "category": "aerospace",
+      "tags": [
+        "Inventor",
+        "Trajectory simulations",
+        "Team leadership"
+      ]
+    },
+    {
+      "name": "FIRST Robotics",
+      "role": "Electrical Lead",
+      "dates": "October 2018-May 2022",
+      "location": "Ventura, CA",
+      "bullets": [
+        "Gained valuable practical experience in manufacturing, design, programming, and engineering collaboration.",
+        "Collaborated with a team of dedicated students to design and build a competitive robot for global competitions.",
+        "Was the team lead for the electrical subsystem in charge of managing and communicating with my engineering team to design, build and compute the technical systems needed in the robotic schematics."
+      ],
+      "category": "robotics manufacturing",
+      "tags": [
+        "Electrical systems",
+        "Robot construction"
+      ]
+    },
+    {
+      "name": "Windturbine Design",
+      "role": "Mechanical Designer",
+      "dates": "September 2022-November 2022",
+      "location": "Ventura, CA",
+      "bullets": [
+        "Responsible for the Solidworks CAD designs for wind turbine blades testing different airfoils for practical uses.",
+        "Tested for best speed blade efficiency with BladeFS in Matlab and their aerodynamic airflows in Ansys.",
+        "Worked and communicated with a team of 5 people to work on both the blade and structural build of the wind turbine construction designing and completing a fully functional efficient wind turbine."
+      ],
+      "category": "aerospace manufacturing",
+      "tags": [
+        "SolidWorks",
+        "MATLAB",
+        "Ansys"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "name": "Paypal Park",
+      "role": "Guest Services Representative",
+      "dates": "August 2026-November 2026",
+      "location": "San Jose, CA",
+      "bullets": [
+        "Worked as a guest representative for both the San Jose Earthquakes men's team and the Bay FC women's team.",
+        "Enforced stadium safety protocols during high-volume ingress and maintained continuous situational awareness to ensure efficient flow in the fast-paced environment while in high and low traffic flow throughout the games.",
+        "Delivered high-quality frontline guest services, acting as the primary point of contact for security screening, navigational information and ensuring a seamless, positive experience for all attendees."
+      ]
+    },
+    {
+      "name": "The Tech Interactive",
+      "role": "Educator I",
+      "dates": "2024 - 2025",
+      "location": "San Jose, CA",
+      "bullets": [
+        "Working to inspire the innovator in everyone inspiring and training the next generation of engineers and scientists.",
+        "Teaching world class immersive STEM classes fostering inclusivity from within and beyond the classroom.",
+        "Working in a world class science and technology center teaching hands-on exploration labs and giving design challenge experiences with interactive exhibits focusing on the major challenges in STEM fields."
+      ]
+    },
+    {
+      "name": "YMCA Ventura Aquatics Center",
+      "role": "Swim Instructor/ Swim Coach/ Lifeguard/ Summer Counselor",
+      "dates": "Summer 2022 - 2024",
+      "location": "Ventura, CA",
+      "bullets": [
+        "Took on multiple roles and responsibilities, simultaneously showcasing time management and organization skills.",
+        "Helped children with disabilities to help strengthen them in swimming mobility, providing specialized instructions and support, ensuring they met their needs and goals.",
+        "Coached students; learn swimming techniques, strokes, and strategies, implementing team workouts and practices."
+      ]
+    },
+    {
+      "name": "Entrepreneur",
+      "role": "Swim Instructor",
+      "dates": "Summer 2023",
+      "location": "Ventura, CA",
+      "bullets": [
+        "Organized and coordinated with multiple clients for planning swim lessons.",
+        "Worked alongside clients in strengthening and conditioning in swimming mobility.",
+        "Organized and created flexibility for clients to adjust to their own times."
+      ]
+    },
+    {
+      "name": "Ventura Aquatics Center",
+      "role": "Lifeguard/ Swim Coach",
+      "dates": "Summer 2021",
+      "location": "Ventura, CA",
+      "bullets": [
+        "Remain mentally and physically alert to dangerous situations to maximize swimmer safety.",
+        "Attended in-service training and staff meetings as scheduled by the supervisor. Prepared progressive lesson plans to enhance experience of program participants."
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": "SJSU Ultimate Frisbee",
+      "role": "Team Player/Condition Coordinator",
+      "dates": "October 2022-Present",
+      "location": "San Jose, CA",
+      "bullets": [
+        "Division 1 club level collegiate Ultimate Frisbee for San Jose State competing on the club national level.",
+        "Organized and developed planned structured workouts to improve performance, efficiency and conditioning.",
+        "Analyzed high intensive situations through numerous hours of film to optimize for game ready environments.",
+        "Pushed my mental and physical limitations to be at the most competitive athletic game ready physique.",
+        "Worked with teammates outside of practice in the gym and running toward competitive physical progression."
+      ]
+    },
+    {
+      "name": "SJSU Swim Team",
+      "role": "Founding Member",
+      "dates": "January 2026-May 2026",
+      "location": "San Jose, CA",
+      "bullets": [
+        "Was a founding member of the SJSU Club Swim Team, fostering a collaborative, driven team environment and laying the groundwork for future recruitment and long-term organizational success.",
+        "Competed at the Division 1 club level, representing SJSU in high-stakes collegiate meets."
+      ]
+    },
+    {
+      "name": "Student Runners for Public Lands",
+      "role": "Founding Member",
+      "dates": "2020 - 2022",
+      "location": "San Jose, CA",
+      "bullets": [
+        "Responsible for organizing events and coordination between members while working to manage the club.",
+        "Educated club members about informative ongoing events from climate change to environmental challenges",
+        "Through my time at the club, I gained valuable information and knowledge about the world in its current environment and the steps we as a community can take to help better our earth while progressing forward."
+      ]
+    }
+  ],
+  "classroom": [
+    {
+      "code": "ENGR 10",
+      "title": "Wind-tunnel design & blade CAD",
+      "tools": [
+        "CAD",
+        "Aerodynamics"
+      ],
+      "description": "Wind tunnel design, from blade CAD design and aerodynamics to structural design and learning about power efficiency."
+    },
+    {
+      "code": "ENGR 10",
+      "title": "Robot design & programming",
+      "tools": [
+        "Robot construction",
+        "Programming"
+      ],
+      "description": "We worked on building a robot, from design and building choices to coding the system for certain tasks."
+    },
+    {
+      "code": "AE 20",
+      "title": "V6 engine CAD & schematics",
+      "tools": [
+        "Inventor",
+        "Schematics"
+      ],
+      "description": "I built a final project CADing piston engines for a V6 engine and did paper schematics as well using Inventor."
+    },
+    {
+      "code": "AE 30",
+      "title": "Missile trajectory programming",
+      "tools": [
+        "Programming",
+        "Trajectories"
+      ],
+      "description": "The final project for code was on missile trajectory."
+    },
+    {
+      "code": "AE 112",
+      "title": "Structural laboratory testing",
+      "tools": [
+        "Structures",
+        "Laboratory testing"
+      ],
+      "description": "I have lab work testing structural designs and buildings to see the mathematical calculations of it."
+    },
+    {
+      "code": "AE 114",
+      "title": "Structural & material properties",
+      "tools": [
+        "Structural dynamics",
+        "Materials"
+      ],
+      "description": "We work on structural dynamics, seeing physical and material properties."
+    },
+    {
+      "code": "AE 138",
+      "title": "Multibody orbital mechanics",
+      "tools": [
+        "MotionGenesis",
+        "3D dynamics"
+      ],
+      "description": "I worked on 3-D dynamics and had to use MotionGenesis in a project for a multibody system, of which I did orbital mechanics for rocket flight."
+    },
+    {
+      "code": "AE 138",
+      "title": "Frisbee disc trajectories",
+      "tools": [
+        "MotionGenesis",
+        "Trajectory modeling"
+      ],
+      "description": "I did Frisbee disc trajectories from an initial point to a final point."
+    },
+    {
+      "code": "AE 140",
+      "title": "Frisbee dynamics & inertia",
+      "tools": [
+        "MATLAB",
+        "Moments of inertia"
+      ],
+      "description": "I had to use MATLAB for 3-D dynamics of a Frisbee, but this time I had to implement outside variables as well and calculate moments of inertia."
+    },
+    {
+      "code": "AE 157",
+      "title": "Control systems",
+      "tools": [
+        "MATLAB",
+        "Simulink"
+      ],
+      "description": "I had to work on MATLAB Simulink for control systems."
+    },
+    {
+      "code": "AE 160 / AE 162",
+      "title": "Open wind-tunnel testing",
+      "tools": [
+        "Aerodynamic data",
+        "Navier–Stokes"
+      ],
+      "description": "Testing different objects in an open wind tunnel for data to calculate lift, drag, pitch, different coefficients, vortices, and higher-level aerodynamic calculations like using Navier–Stokes."
+    }
+  ],
+  "skills": [
+    "Inventor",
+    "SolidWorks",
+    "MATLAB",
+    "Python",
+    "Java",
+    "C++",
+    "Simulation and Modeling",
+    "Thermal Testing",
+    "CFD"
+  ],
+  "education": {
+    "school": "San José State University",
+    "degree": "B.S. Aerospace Engineering",
+    "dates": "September 2022 – May 2027",
+    "graduation": "May 2027"
+  },
+  "resumes": [
+    {
+      "name": "Main résumé",
+      "label": "General engineering",
+      "filename": "Vincent-Cook-Resume.pdf"
+    },
+    {
+      "name": "Robotics résumé",
+      "label": "Robotics & mechatronics",
+      "filename": "Vincent-Cook-Robotics-Resume.pdf"
+    },
+    {
+      "name": "Manufacturing résumé",
+      "label": "Manufacturing & production",
+      "filename": "Vincent-Cook-Manufacturing-Resume.pdf"
+    }
+  ]
+}
